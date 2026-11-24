@@ -1,5 +1,0 @@
-{
-  "version": "2027.2",
-  "download_url": "https://github.com/ilamulyandi1/eraporsd-update/releases/download/update_config.json/updateraporsp2027.2.zip",
-  "changelog": "Perbaikan bug pada setting pilihan kertas F4 <br/>Perbaikan tampilan pada cetak rapor P5 <br/>Perbaikan data referensi tema dan dimensi P5 <br/>Perbaikan input Nilai PTS dan Rapor untuk fitur nilai akhir pada mapel gabungan <br/>Perbaikan sistem logout yang menampilkan halaman error <br/>Perbaikan tampilan daftar kelas sesuai jenis rombel <br/>Perbaikan short data kelompok PKL pada input perencanaan PKL"
-}
